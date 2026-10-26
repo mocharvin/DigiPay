@@ -6,6 +6,13 @@
 
 ---
 
+# Kelompok CarmenLovers
+## Anggota:
+1. Muhamad Arvin (F1D02510078)
+2. Andika Ramdhanu (F1D02510104)
+
+---
+
 ## Penjelasan Implementasi Kode
 
 ### 1. Abstract Class (Blueprint Utama)
